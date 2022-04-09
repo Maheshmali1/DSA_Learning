@@ -51,6 +51,6 @@ class Solution{
         vec.push_back(C);
         sort(vec.begin(),vec.end());
         return vec.at(1);
-        //code here//Position this line where user code will be pasted.
+        //code here 
     }
 };
