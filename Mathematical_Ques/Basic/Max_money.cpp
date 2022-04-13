@@ -2,7 +2,8 @@
 
 Problem : 
 
-Given a street of N houses (a row of houses), each house having K amount of money kept inside; now there is a thief who is going to steal this money but he has a constraint/rule that he cannot steal/rob two adjacent houses. Find the maximum money he can rob.
+Given a street of N houses (a row of houses), each house having K amount of money kept inside; now there is a thief who is going to steal this money 
+but he has a constraint/rule that he cannot steal/rob two adjacent houses. Find the maximum money he can rob.
 
 Example 1:
 
@@ -13,6 +14,8 @@ Output:
 Explanation:
 The Robber can rob from the first, third
 and fifth houses which will result in 30.
+
+
 Example 2:
 
 Input:
@@ -22,6 +25,7 @@ Output:
 Explanation:
 The Robber can only rob from the first
 or second which will result in 12.
+
 Your Task:
 You don't need to read input or print anything. Your task is to complete the function maximizeMoney() which takes 2 Integers N and K as input and returns the answer.
 
